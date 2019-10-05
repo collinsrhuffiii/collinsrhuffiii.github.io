@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://collinsrhuff.com/about/</loc>
+    <lastmod>2019-10-05T14:20:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://collinsrhuff.com/</loc>
+    <lastmod>2019-10-05T14:20:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   

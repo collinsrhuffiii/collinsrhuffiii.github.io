@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 05 Oct 2019 14:20:54 -0400</lastBuildDate>
     
 	<atom:link href="https://collinsrhuff.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://collinsrhuff.com/about/</link>
+      <pubDate>Sat, 05 Oct 2019 14:20:54 -0400</pubDate>
+      
+      <guid>https://collinsrhuff.com/about/</guid>
+      <description>Software Engineer at Counterflow. UVa grad.</description>
+    </item>
     
   </channel>
 </rss>
